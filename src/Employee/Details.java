@@ -18,6 +18,8 @@ String s1="karumam da samy";
 Details t= new Details();
 t.karadi();
  
+	  System.out.println("they are incredible");
+
      
      
      
